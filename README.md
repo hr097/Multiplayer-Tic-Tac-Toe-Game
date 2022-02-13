@@ -1,4 +1,4 @@
-# Multiplayer-Tic-Tac-Toe-Game in Visaul Basic .NET (Core ) <em>6.0 Framework</em>
+# Multiplayer-Tic-Tac-Toe-Game in Visaul Basic ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  (Core ) <em>6.0 Framework</em>
 <b>Developed By Harshil Ramani</b>
 <em> product by Winter and Stark </em>
 
