@@ -2,9 +2,7 @@
 <b>Visual Basic .NET (Core ) </b> <em>6.0 Framework</em>
 <br>
 
-<b>Developed By Harshil Ramani</b>
+<b>Developed By <em>Harshil Ramani</em></b>
 <br>
-<em> product by Winter and Stark </em>
-
-<br>
-<h3><strong><i>Enjoy the Game</i> ~ HR(Harshil Ramani) </strong></h3>
+<b>product by <em>  Winter and Stark </em></b>
+<h3><strong><i>Enjoy the Game</i> ~ HR</strong></h3>
