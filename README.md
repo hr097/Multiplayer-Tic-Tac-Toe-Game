@@ -6,8 +6,5 @@
 <br>
 <em> product by Winter and Stark </em>
 
-
-you might have listen about simple 2 player (3 * 3) Tic Tac Tae But This is something different ✨,
-You might be surprised after playing this same game in Multiplayer Mode , It becomes Super Exciting and Fun😉.
 <br>
 <h3><strong><i>Enjoy the Game</i> ~ HR(Harshil Ramani) </strong></h3>
